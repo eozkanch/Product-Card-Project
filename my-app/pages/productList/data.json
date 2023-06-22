@@ -1,0 +1,106 @@
+[
+	{
+	  "id": 1,
+	  "title": "Men's Shirt",
+	  "image": "img-1.jpg",
+	  "price": 65.4,
+	  "discount": 0,
+	  "rate": 4
+	},
+	{
+	  "id": 2,
+	  "title": "Women's Shirt",
+	  "image": "img-2.jpg",
+	  "price": 75.8,
+	  "discount": 10,
+	  "rate": 3
+	},
+	{
+	  "id": 3,
+	  "title": "Men's Jacket",
+	  "image": "img-3.jpg",
+	  "price": 105.2,
+	  "discount": 20,
+	  "rate": 5
+	},
+	{
+	  "id": 4,
+	  "title": "Women's Blouse",
+	  "image": "img-4.jpg",
+	  "price": 35.4,
+	  "discount": 0,
+	  "rate": 4
+	},
+	{
+	  "id": 5,
+	  "title": "Men's Coats",
+	  "image": "img-5.jpg",
+	  "price": 62.4,
+	  "discount": 0,
+	  "rate": 5
+	},
+	{
+	  "id": 6,
+	  "title": "Women's Coats",
+	  "image": "img-6.jpg",
+	  "price": 52.4,
+	  "discount": 10,
+	  "rate": 4
+	},
+	{
+	  "id": 7,
+	  "title": "Women's Pants",
+	  "image": "img-7.jpg",
+	  "price": 49.9,
+	  "discount": 5,
+	  "rate": 4
+	},
+	{
+	  "id": 8,
+	  "title": "Women's Pants",
+	  "image": "img-8.jpg",
+	  "price": 89.0,
+	  "discount": 15,
+	  "rate": 3
+	},
+	{
+	  "id": 9,
+	  "title": "Men's Shoes",
+	  "image": "img-9.jpg",
+	  "price": 39.5,
+	  "discount": 0,
+	  "rate": 5
+	},
+	{
+	  "id": 10,
+	  "title": "Men's Shoes",
+	  "image": "img-10.jpg",
+	  "price": 79.9,
+	  "discount": 10,
+	  "rate": 4
+	},
+	{
+	  "id": 11,
+	  "title": "Men's Hat",
+	  "image": "img-11.jpg",
+	  "price": 55.6,
+	  "discount": 0,
+	  "rate": 4
+	},
+	{
+	  "id": 12,
+	  "title": "Men's Hat",
+	  "image": "img-12.jpg",
+	  "price": 69.3,
+	  "discount": 5,
+	  "rate": 5
+	},
+	{
+	  "id": 13,
+	  "title": "Men's Socks",
+	  "image": "img-13.jpg",
+	  "price": 25.0,
+	  "discount": 0,
+	  "rate": 4
+	}
+  ]

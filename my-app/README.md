@@ -17,3 +17,4 @@ Developed using React and Next.js frameworks.
 -This project serves as an ideal starting point to build e-commerce applications or add new features to existing projects. It is designed for experienced developers familiar with React and Next.js, allowing for quick and efficient customization.
 
 Additionally, this project serves as an educational resource for developers looking to learn about customizable components, data filtering and sorting logic, React Hooks (useState, useEffect), and data management.
+
