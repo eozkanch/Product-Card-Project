@@ -16,6 +16,7 @@ export default function Home() {
     <Button variant="primary" href="/numbergame">Nunber Game</Button>
     <Button variant="primary" href="/calculator2">Calculator2</Button>
     <Button variant="primary" href="/calculator3">Calculator3</Button>
+    <Button variant="primary" href="/loginIns">Login Instagram Clon</Button>
 
     </Container>
     </Container>
