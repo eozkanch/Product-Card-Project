@@ -13,7 +13,9 @@ export default function Home() {
 
     <Container className='flex justify-center items-center gap-10 mt-10'>
     <Button variant="primary" href="/productList">Product list</Button>
-    
+    <Button variant="primary" href="/numbergame">Nunber Game</Button>
+    <Button variant="primary" href="/calculator2">Calculator2</Button>
+    <Button variant="primary" href="/calculator3">Calculator3</Button>
 
     </Container>
     </Container>
