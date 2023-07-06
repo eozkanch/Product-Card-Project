@@ -3,8 +3,8 @@ import Confetti from "./Confetti";
 
 
 const MIN_NUMBER = 1;
-const MAX_NUMBER = 5;
-const MAX_GUESSES = 100;
+const MAX_NUMBER = 100;
+const MAX_GUESSES = 10;
 
 export default function Game() {
   const [winningNumber, setWinningNumber] = useState(null);
